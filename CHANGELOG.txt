@@ -1,1 +1,3 @@
+# Version 0.1 
+Added main.py, added BeautifulSoup, Selenium and pandas, these are commonly used web scraping tools
 
